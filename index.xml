@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>时间能力</title>
-    <link>http://www.wangyang.plus/timerable-web/</link>
+    <link>https://www.wangyang.plus/timerable-page/</link>
     <description>Recent content on 时间能力</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="http://www.wangyang.plus/timerable-web/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language><atom:link href="https://www.wangyang.plus/timerable-page/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
